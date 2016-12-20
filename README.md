@@ -9,10 +9,10 @@ Inicio: sueldoSemanal
 
 ## Proceso
 
-1 Pedir horas
-2 Pedir pago
-3 Multiplicar horas por pago y almacenar 
-4 Mostrar sueldoSemanal
+- Pedir horas
+- Pedir pago
+- Multiplicar horas por pago y almacenar 
+- Mostrar sueldoSemanal
 
 # Fin #
 
