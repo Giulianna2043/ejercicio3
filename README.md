@@ -1,4 +1,4 @@
-# ejercicio3
+# Ejercicio3
 
 Inicio: sueldoSemanal
 
@@ -9,10 +9,10 @@ Inicio: sueldoSemanal
 
 ## Proceso
 
-1.-pedir horas
-2.-pedir pago
-3.-Multiplicar horas por pago y almacenar 
-4.-Mostrar sueldoSemanal
+1 Pedir horas
+2 Pedir pago
+3 Multiplicar horas por pago y almacenar 
+4 Mostrar sueldoSemanal
 
 # Fin #
 
