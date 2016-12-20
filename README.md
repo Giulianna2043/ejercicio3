@@ -3,16 +3,16 @@
 Inicio: sueldoSemanal
 
 ## Ingreso datos
--horas
--pago
-sueldoSemanal
+- horas
+- pago
+- sueldoSemanal
 
 ## Proceso
 
-pedir horas
-pedir pago
-Multiplicar horas por pago y almacenar 
-Mostrar sueldoSemanal
+1.-pedir horas
+2.-pedir pago
+3.-Multiplicar horas por pago y almacenar 
+4.-Mostrar sueldoSemanal
 
 # Fin #
 
